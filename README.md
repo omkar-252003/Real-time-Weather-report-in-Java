@@ -6,7 +6,7 @@ Welcome to the Weather App! This Java-based application provides users with real
 
 ## 📸 Screenshot
 
-![Weather App Screenshot](path/to/your/screenshot.png)
+![Weather App Screenshot](weather 2/WeatherAppGUI-Java-main/Screenshot_15.png)
 
 ## 🚀 Features
 
