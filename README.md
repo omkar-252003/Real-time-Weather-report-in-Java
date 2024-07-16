@@ -6,7 +6,7 @@ Welcome to the Weather App! This Java-based application provides users with real
 
 ## 📸 Screenshot
 
-![Weather App Screenshot](weather 2/WeatherAppGUI-Java-main/Screenshot_15.png)
+![Weather App Screenshot]([weather 2/WeatherAppGUI-Java-main/Screenshot_15.png](https://github.com/omkar-252003/Real-time-Weather-report-in-Java/blob/main/weather%202/WeatherAppGUI-Java-main/Screenshot_15.png))
 
 ## 🚀 Features
 
